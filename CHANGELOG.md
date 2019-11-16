@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.2
+
+* Maintenance release
+* Display `ROS` version and distro for status
+
 ## 0.6.1
 
 * Enable support for launch-debug a ROS node
